@@ -1,4 +1,4 @@
-🐧 99 little bugs in the code, 99 little bugs in the code. Take one down, patch it around 117 little bugs in the code.
+Hello world.
 
 <!--
 **thomas-nguy/thomas-nguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
